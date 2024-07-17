@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8rIp+H51Ti3+jxwiHKeBTYtMpeevFqSkE9L+tRANTbQ=",
+  "Source": "JiraAnalyzer",
+  "BasePath": "_content/JiraAnalyzer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

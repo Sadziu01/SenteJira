@@ -1,0 +1,9 @@
+.toggle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.toggle input {
+    margin-right: 10px;
+}
