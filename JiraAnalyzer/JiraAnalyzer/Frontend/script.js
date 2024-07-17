@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 let myChart;
 
 async function loadAuthors() {
-    const response = await fetch('settings.json');
+    const response = await fetch('../settings.json');
     const data = await response.json();
     console.log(data);
     

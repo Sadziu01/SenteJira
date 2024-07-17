@@ -306,3 +306,4 @@ C:\Users\sadowskib\Documents\GitHub\SenteJira\JiraAnalyzer\JiraAnalyzer\bin\Debu
 C:\Users\sadowskib\Documents\GitHub\SenteJira\JiraAnalyzer\JiraAnalyzer\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\sadowskib\Documents\GitHub\SenteJira\JiraAnalyzer\JiraAnalyzer\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\sadowskib\Documents\GitHub\SenteJira\JiraAnalyzer\JiraAnalyzer\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sadowskib\Documents\GitHub\SenteJira\JiraAnalyzer\JiraAnalyzer\obj\Debug\net8.0\JiraAnalyzer.sourcelink.json

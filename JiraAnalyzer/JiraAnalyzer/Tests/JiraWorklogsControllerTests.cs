@@ -18,12 +18,10 @@ namespace JiraAnalyzer.Tests
 
         public JiraWorklogsControllerTests()
         {
-            // Ustawienia dla DbContext w pamięci
             _options = new DbContextOptionsBuilder<DataContext>()
                 .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
                 .Options;
 
-            // Dodaj przykładowe dane do testów
             using (var context = new DataContext(_options))
             {
                 context.JiraWorklogs.AddRange(new List<JiraWorklog>

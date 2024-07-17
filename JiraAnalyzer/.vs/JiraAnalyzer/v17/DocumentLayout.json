@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\controllers\\jiraworklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\controllers\\jiraworklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\tests\\jiraworklogscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\tests\\jiraworklogscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\jiraanalyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\controllers\\jiraworklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\controllers\\jiraworklogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\models\\jiraworklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|c:\\users\\sadowskib\\documents\\github\\sentejira\\jiraanalyzer\\jiraanalyzer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E59E22C3-BB42-448D-9D9A-11A7AEF87C7F}|JiraAnalyzer\\JiraAnalyzer.csproj|solutionrelative:jiraanalyzer\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JiraWorklogsControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Tests\\JiraWorklogsControllerTests.cs",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Tests\\JiraWorklogsControllerTests.cs",
               "ToolTip": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Tests\\JiraWorklogsControllerTests.cs",
               "RelativeToolTip": "JiraAnalyzer\\Tests\\JiraWorklogsControllerTests.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIAAAABFAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T19:45:35.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Frontend\\index.html",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Frontend\\index.html",
@@ -91,12 +83,11 @@
               "RelativeToolTip": "JiraAnalyzer\\Frontend\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-17T19:41:00.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T19:41:00.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "settings.json",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Frontend\\settings.json",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Frontend\\settings.json",
@@ -104,25 +95,11 @@
               "RelativeToolTip": "JiraAnalyzer\\Frontend\\settings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T19:35:31.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T19:35:31.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "todo.txt",
-              "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\todo.txt",
-              "RelativeDocumentMoniker": "JiraAnalyzer\\todo.txt",
-              "ToolTip": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\todo.txt",
-              "RelativeToolTip": "JiraAnalyzer\\todo.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-17T18:26:29.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JiraAnalyzer.csproj",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\JiraAnalyzer.csproj",
               "RelativeDocumentMoniker": "JiraAnalyzer\\JiraAnalyzer.csproj",
@@ -130,38 +107,24 @@
               "RelativeToolTip": "JiraAnalyzer\\JiraAnalyzer.csproj",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T17:42:15.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T17:42:15.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "JiraAnalyzer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "JiraAnalyzer\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:59:21.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "JiraWorklogsController.cs",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Controllers\\JiraWorklogsController.cs",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Controllers\\JiraWorklogsController.cs",
               "ToolTip": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Controllers\\JiraWorklogsController.cs",
               "RelativeToolTip": "JiraAnalyzer\\Controllers\\JiraWorklogsController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAowHMAAAANAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwHMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T16:58:45.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Data\\DataContext.cs",
@@ -169,12 +132,11 @@
               "RelativeToolTip": "JiraAnalyzer\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:56:35.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:56:35.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "JiraWorklog.cs",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\Models\\JiraWorklog.cs",
               "RelativeDocumentMoniker": "JiraAnalyzer\\Models\\JiraWorklog.cs",
@@ -182,12 +144,11 @@
               "RelativeToolTip": "JiraAnalyzer\\Models\\JiraWorklog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:54:31.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:54:31.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\appsettings.json",
               "RelativeDocumentMoniker": "JiraAnalyzer\\appsettings.json",
@@ -195,8 +156,7 @@
               "RelativeToolTip": "JiraAnalyzer\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T16:51:45.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:51:45.378Z"
             },
             {
               "$type": "Document",
@@ -208,12 +168,11 @@
               "RelativeToolTip": "JiraAnalyzer\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAwwD4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:51:09.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T16:51:09.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FileHelper.cs",
               "DocumentMoniker": "C:\\Users\\sadowskib\\Documents\\GitHub\\SenteJira\\JiraAnalyzer\\JiraAnalyzer\\FileHelper\\FileHelper.cs",
               "RelativeDocumentMoniker": "JiraAnalyzer\\FileHelper\\FileHelper.cs",
@@ -221,8 +180,7 @@
               "RelativeToolTip": "JiraAnalyzer\\FileHelper\\FileHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T19:39:13.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T19:39:13.821Z"
             }
           ]
         }
